@@ -1,0 +1,9 @@
+C:\bernardo\miproyecto\capaDatos\bin\Debug\capaDatos.dll
+C:\bernardo\miproyecto\capaDatos\bin\Debug\capaDatos.pdb
+C:\bernardo\miproyecto\capaDatos\bin\Debug\capaEntidad.dll
+C:\bernardo\miproyecto\capaDatos\bin\Debug\capaEntidad.pdb
+C:\bernardo\miproyecto\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\bernardo\miproyecto\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\bernardo\miproyecto\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\bernardo\miproyecto\capaDatos\obj\Debug\capaDatos.dll
+C:\bernardo\miproyecto\capaDatos\obj\Debug\capaDatos.pdb

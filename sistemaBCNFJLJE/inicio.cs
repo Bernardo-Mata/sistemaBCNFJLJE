@@ -31,5 +31,21 @@ namespace sistemaBCNFJLJE
         {
 
         }
+
+        private void menuusuario_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menumantenedor_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menuventas_Click(object sender, EventArgs e)
+        {
+            
+
+        }
     }
 }

@@ -11,6 +11,13 @@ EmailDoc char(30) NULL,
 clave varchar(50)
 );
 
+create table permiso(
+ID_permiso int NOT NULL primary key AUTO_INCREMENT,
+ID_doctor int references doctor(ID_doctor),
+NombreMenu char(25) NULL,
+FechaRegistro datetime default now()
+);
+
 create table paciente(
 ID_paciente int NOT NULL primary key AUTO_INCREMENT,
 NombrePaciente char(20) NULL,

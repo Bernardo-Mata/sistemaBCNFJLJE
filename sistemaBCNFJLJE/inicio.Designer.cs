@@ -71,6 +71,7 @@
             this.menuusuario.Size = new System.Drawing.Size(79, 74);
             this.menuusuario.Text = "Usuarios";
             this.menuusuario.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.menuusuario.Click += new System.EventHandler(this.menuusuario_Click);
             // 
             // menumantenedor
             // 
@@ -83,6 +84,7 @@
             this.menumantenedor.Size = new System.Drawing.Size(104, 74);
             this.menumantenedor.Text = "Mantenedor";
             this.menumantenedor.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.menumantenedor.Click += new System.EventHandler(this.menumantenedor_Click);
             // 
             // menuventas
             // 
@@ -95,6 +97,7 @@
             this.menuventas.Size = new System.Drawing.Size(66, 74);
             this.menuventas.Text = "Ventas";
             this.menuventas.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.menuventas.Click += new System.EventHandler(this.menuventas_Click);
             // 
             // menutratamientos
             // 
@@ -165,9 +168,9 @@
             this.label1.ForeColor = System.Drawing.SystemColors.Control;
             this.label1.Location = new System.Drawing.Point(391, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(397, 37);
+            this.label1.Size = new System.Drawing.Size(297, 37);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Sistema de Administración";
+            this.label1.Text = "Sistema consultorio";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // panel1
