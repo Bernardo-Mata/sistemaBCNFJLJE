@@ -18,3 +18,7 @@ C:\bernardo\miproyecto\sistemaBCNFJLJE\bin\Debug\capaDatos.dll
 C:\bernardo\miproyecto\sistemaBCNFJLJE\bin\Debug\capaEntidad.pdb
 C:\bernardo\miproyecto\sistemaBCNFJLJE\bin\Debug\capaNegocio.pdb
 C:\bernardo\miproyecto\sistemaBCNFJLJE\bin\Debug\capaDatos.pdb
+C:\bernardo\miproyecto\sistemaBCNFJLJE\obj\Debug\sistemaBCNFJLJE.frmpaciente.resources
+C:\bernardo\miproyecto\sistemaBCNFJLJE\obj\Debug\sistemaBCNFJLJE.frmtratamiento.resources
+C:\bernardo\miproyecto\sistemaBCNFJLJE\obj\Debug\sistemaBCNFJLJE.frmUsuarios.resources
+C:\bernardo\miproyecto\sistemaBCNFJLJE\obj\Debug\sistemaBCNFJLJE.frmventas.resources

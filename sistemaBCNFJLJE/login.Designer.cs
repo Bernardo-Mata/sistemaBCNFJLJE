@@ -96,9 +96,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(339, 48);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 16);
+            this.label3.Size = new System.Drawing.Size(85, 16);
             this.label3.TabIndex = 5;
-            this.label3.Text = "label3";
+            this.label3.Text = "ID del Doctor";
             // 
             // label4
             // 

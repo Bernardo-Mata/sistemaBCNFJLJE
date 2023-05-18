@@ -8,12 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using capaEntidad;
+
 namespace sistemaBCNFJLJE
 {
     public partial class inicio : Form
     {
-        public inicio()
+        private static rol usuarioActual;
+        public inicio( rol objusuario)
         {
+            usuarioActual = objusuario;
             InitializeComponent();
         }
 
@@ -44,8 +48,18 @@ namespace sistemaBCNFJLJE
 
         private void menuventas_Click(object sender, EventArgs e)
         {
-            
 
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void inicio_Load(object sender, EventArgs e)
+        {
+            lblUsuario.Text = usuarioActual.NombreDoc;
         }
     }
 }

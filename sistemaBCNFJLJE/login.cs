@@ -62,7 +62,7 @@ namespace sistemaBCNFJLJE
             if(ousuario != null)
             {
 
-            inicio form = new inicio();
+            inicio form = new inicio(ousuario);
             form.Show();
             this.Hide();
 

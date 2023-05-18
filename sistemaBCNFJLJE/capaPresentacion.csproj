@@ -57,6 +57,30 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmpaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpaciente.Designer.cs">
+      <DependentUpon>frmpaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmtratamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtratamiento.Designer.cs">
+      <DependentUpon>frmtratamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarios.Designer.cs">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmventas.Designer.cs">
+      <DependentUpon>frmventas.cs</DependentUpon>
+    </Compile>
     <Compile Include="inicio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +100,18 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>sistemaBCNFJLJEDataSet.xsd</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="frmpaciente.resx">
+      <DependentUpon>frmpaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtratamiento.resx">
+      <DependentUpon>frmtratamiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmventas.resx">
+      <DependentUpon>frmventas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="inicio.resx">
       <DependentUpon>inicio.cs</DependentUpon>
     </EmbeddedResource>
